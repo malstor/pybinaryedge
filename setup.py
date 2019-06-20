@@ -9,7 +9,7 @@ setup(
     description='Python 3 Wrapper for the binary edge API https://www.binaryedge.io/',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/Te-k/pybinaryedge',
+    url='https://github.com/malstor/pybinaryedge',
     author='Tek',
     author_email='tek@randhome.io',
     keywords='osint',
